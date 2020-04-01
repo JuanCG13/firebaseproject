@@ -1,7 +1,7 @@
 firebase.initializeApp({
-    apiKey: 'AIzaSyB560MPVjSA38eSrg0IwG8wgrFPeusfpns',
-    authDomain: 'proyectoprofesores-58a82.firebaseapp.com',
-    projectId: 'proyectoprofesores-58a82'
+    apiKey: '',
+    authDomain: '',
+    projectId: ''
   });
   
 var db = firebase.firestore();
